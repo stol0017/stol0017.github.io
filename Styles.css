@@ -231,6 +231,7 @@ footer {
 @media screen and (max-width: 1000px) {
     h1 {font-size: 2.4em;}
     header div.hero {left: 56%;}
+    footer {left: 56%;}
     header div.hero h1 {margin-bottom: 20px;}
     .identical-box1 .identical-box2 .identical-box3  {
         padding-left: 400px; background-size: 375px auto;}
